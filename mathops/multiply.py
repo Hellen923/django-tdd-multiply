@@ -6,4 +6,4 @@ def multiply(a, b):
     :param b: Second number
     :return: Product of a and b
     """
-    return a * b
+    return a * b 
